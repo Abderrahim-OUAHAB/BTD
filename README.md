@@ -21,8 +21,8 @@ Cette application Flask permet de détecter des tumeurs à partir d'images médi
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-repo/tumor-detection.git
-cd tumor-detection
+git clone https://github.com/Abderrahim-OUAHAB/BTD.git
+cd BTD
 ```
 
 ### 2. Installer les dépendances
