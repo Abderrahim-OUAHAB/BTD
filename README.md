@@ -52,8 +52,9 @@ Le modèle de deep learning utilisé est un **CNN** (Convolutional Neural Networ
 
 
 ## Auteur
-Développé par **[Abderrahim OUAHAB]**
+Développé par **Abderrahim OUAHAB**
 
 ## Licence
 MIT License
+
 
